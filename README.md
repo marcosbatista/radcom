@@ -1,6 +1,5 @@
-# radcom
-#EXTM3U
 
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="informações"por radcom webhost
 
 #EXTINF:-1 tvg-id="" tvg-name="radcom"Ieadc vila verde
